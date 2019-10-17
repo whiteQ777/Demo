@@ -1,0 +1,58 @@
+package com.bill.Entity;
+
+
+import java.util.Date;
+
+/**
+ * @Classname Record
+ * @Description TODO
+ * @Date 2019/10/10 16:01
+ * @Created by HeYu5
+ */
+public class Record {
+    public int id;
+    public int spend;
+    public int cid;
+    public String comment;
+    public Date date;
+
+    public int getCid() {
+        return cid;
+    }
+
+    public void setCid(int cid) {
+        this.cid = cid;
+    }
+
+    public String getComment() {
+        return comment;
+    }
+
+    public void setComment(String comment) {
+        this.comment = comment;
+    }
+
+    public Date getDate() {
+        return date;
+    }
+
+    public void setDate(Date date) {
+        this.date = date;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public int getSpend() {
+        return spend;
+    }
+
+    public void setSpend(int spend) {
+        this.spend = spend;
+    }
+}
