@@ -1,4 +1,4 @@
-package com.bill.UI.util;
+package com.bill.gui.util;
 
 import javax.swing.*;
 import java.awt.*;

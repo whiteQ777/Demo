@@ -1,4 +1,4 @@
-package com.bill.UI.test;
+package com.bill.gui.test;
 
 import java.io.File;
 import java.io.FileNotFoundException;

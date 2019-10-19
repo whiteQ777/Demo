@@ -1,8 +1,8 @@
-package com.bill.UI.panel;
+package com.bill.gui.panel;
 
-import com.bill.UI.model.CategoryComboBoxModel;
-import com.bill.UI.util.ColorUtil;
-import com.bill.UI.util.GUIUtil;
+import com.bill.gui.model.CategoryComboBoxModel;
+import com.bill.gui.util.ColorUtil;
+import com.bill.gui.util.GUIUtil;
 import org.jdesktop.swingx.JXDatePicker;
 
 import javax.swing.*;

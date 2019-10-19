@@ -21,7 +21,6 @@ public class DateUtil {
         c.set(Calendar.MINUTE, 0);
         c.set(Calendar.SECOND, 0);
         return c.getTime();
-
     }
 
     /**

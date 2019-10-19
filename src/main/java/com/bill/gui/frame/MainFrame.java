@@ -1,6 +1,6 @@
-package com.bill.UI.frame;
+package com.bill.gui.frame;
 
-import com.bill.UI.panel.MainPanel;
+import com.bill.gui.panel.MainPanel;
 
 import javax.swing.*;
 

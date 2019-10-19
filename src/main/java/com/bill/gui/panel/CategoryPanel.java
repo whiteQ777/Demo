@@ -1,10 +1,10 @@
-package com.bill.UI.panel;
+package com.bill.gui.panel;
 
 
 
-import com.bill.UI.model.CategoryTableModel;
-import com.bill.UI.util.ColorUtil;
-import com.bill.UI.util.GUIUtil;
+import com.bill.gui.model.CategoryTableModel;
+import com.bill.gui.util.ColorUtil;
+import com.bill.gui.util.GUIUtil;
 
 import javax.swing.*;
 import java.awt.*;

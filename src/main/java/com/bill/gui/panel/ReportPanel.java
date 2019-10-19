@@ -1,9 +1,9 @@
-package com.bill.UI.panel;
+package com.bill.gui.panel;
 
 
 
-import com.bill.UI.util.ChartUtil;
-import com.bill.UI.util.GUIUtil;
+import com.bill.gui.util.ChartUtil;
+import com.bill.gui.util.GUIUtil;
 
 import java.awt.BorderLayout;
 import java.awt.Image;

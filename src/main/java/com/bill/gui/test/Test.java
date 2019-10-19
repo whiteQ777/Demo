@@ -1,10 +1,10 @@
-package com.bill.UI.test;
+package com.bill.gui.test;
 
 
 
-import com.bill.UI.util.CircleProgressBar;
-import com.bill.UI.util.ColorUtil;
-import com.bill.UI.util.GUIUtil;
+import com.bill.gui.util.CircleProgressBar;
+import com.bill.gui.util.ColorUtil;
+import com.bill.gui.util.GUIUtil;
 
 import javax.swing.*;
 import java.awt.*;

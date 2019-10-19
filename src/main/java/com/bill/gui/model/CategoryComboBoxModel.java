@@ -1,4 +1,4 @@
-package com.bill.UI.model;
+package com.bill.gui.model;
 
 import javax.swing.*;
 import javax.swing.event.ListDataListener;

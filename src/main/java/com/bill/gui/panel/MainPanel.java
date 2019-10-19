@@ -1,4 +1,4 @@
-package com.bill.UI.panel;
+package com.bill.gui.panel;
 
 
 /**
@@ -10,8 +10,8 @@ package com.bill.UI.panel;
 
 
 
-import com.bill.UI.util.CenterPanel;
-import com.bill.UI.util.GUIUtil;
+import com.bill.gui.util.CenterPanel;
+import com.bill.gui.util.GUIUtil;
 
 import javax.swing.*;
 import java.awt.*;
